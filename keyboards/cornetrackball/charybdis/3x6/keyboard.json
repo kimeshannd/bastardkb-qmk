@@ -30,7 +30,7 @@
         "pointing_device": true
     },
     "ws2812": {
-        "pin": "D3",
+        "pin": "GP0",
         "driver": "vendor"
     },
     "processor": "RP2040",
