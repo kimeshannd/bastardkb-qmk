@@ -1,10 +1,10 @@
 {
-    "keyboard_name": "Charybdis Mini (3x6) Splinky",
+    "keyboard_name": "corneTrackball",
     "url": "https://bastardkb.com",
     "usb": {
-        "vid": "0xFEED",
-        "pid": "0x1834",
-        "device_version": "2.0.0"
+        "vid": "0x5003",
+        "pid": "0x0001",
+        "device_version": "0.0.1"
     },
     "rgb_matrix": {
         "driver": "ws2812",
