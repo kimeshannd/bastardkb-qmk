@@ -1,5 +1,7 @@
 {
     "keyboard_name": "corneTrackball",
+    "manufacturer": "Kimeshan",
+    "maintainer": "Kimeshan",
     "url": "https://bastardkb.com",
     "usb": {
         "vid": "0x5003",
