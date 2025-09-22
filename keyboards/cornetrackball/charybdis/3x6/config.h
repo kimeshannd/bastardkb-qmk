@@ -36,7 +36,7 @@
 /* SPI & PMW3360 settings. */
 #define SPI_DRIVER SPID0
 #define SPI_SCK_PIN GP2
-#define SPI_MISO_PIN GP3
+#define SPI_MISO_PIN GP7
 #define SPI_MOSI_PIN GP16
 #define POINTING_DEVICE_CS_PIN GP12
 
